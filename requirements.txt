@@ -1,0 +1,23 @@
+# Earthquake Simulator - Dependencies
+
+# Core scientific computing
+numpy
+scipy
+numba
+
+# Geospatial and rasterio for DEM processing
+rasterio
+GDAL
+
+# 3D visualization
+ursina
+panda3d
+
+# Optional but recommended for performance
+matplotlib
+pillow
+
+# Development and testing
+pytest
+pytest-cov
+black
